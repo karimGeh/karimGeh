@@ -5,7 +5,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows|Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows|Linux-informational?style=flat&logo=Twitter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/github/followers/karimGeh)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
