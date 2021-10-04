@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/github/followers/karimGeh?style=social)
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+
+🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Windows|Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/github/followers/karimGeh)
+
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+[1]: https://twitter.com/karimGeh
+[2]: https://www.linkedin.com/in/karim-gehad/
 <!--
 **karimGeh/karimGeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
