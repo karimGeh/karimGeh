@@ -8,8 +8,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ![](https://img.shields.io/badge/OS-Windows|Linux-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/github/followers/karimGeh)
 
-[1.2]: https://img.shields.io/badge/twitter-@karimGeh-informational?style=flat&logo=Twitter&logoColor=white&color=2bbc8a
-[2.2]: https://img.shields.io/badge/twitter-karim%20gehad-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a
+[1.2]: https://img.shields.io/badge/-@karimGeh-informational?style=flat&logo=Twitter&logoColor=white&color=2bbc8a
+[2.2]: https://img.shields.io/badge/-karim%20gehad-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a
 
 [1]: https://twitter.com/karimGeh
 [2]: https://www.linkedin.com/in/karim-gehad/
