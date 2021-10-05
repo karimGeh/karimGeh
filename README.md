@@ -25,9 +25,9 @@
 ![](https://img.shields.io/badge/FW-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/FW-Handlebars-informational?style=flat&logo=Handlebars.js&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/FW-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=0A66C2)
+
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=0A66C2)
-
 ![](https://img.shields.io/badge/cloud-Digitalocean-informational?style=flat&logo=Digitalocean&logoColor=white&color=0A66C2)
 
 ![](https://img.shields.io/badge/design-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=0A66C2)
