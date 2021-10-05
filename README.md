@@ -7,7 +7,6 @@
 [![UpWork][3.2]][3]
   
 
-![](https://visitor-badge.glitch.me/badge?page_id=karimGeh.karimGeh)
 
 <!-- [![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimGeh&show_icons=true&theme=dark)](https://github.com/karimGeh/github-readme-stats) -->
 
@@ -46,7 +45,10 @@
 
 
 Others:
+
 ![](https://img.shields.io/github/followers/karimGeh)
+
+![](https://visitor-badge.glitch.me/badge?page_id=karimGeh.karimGeh)
 
 [1.2]: https://img.shields.io/badge/Twitter-@karimGeh?style=flat&logo=Twitter&logoColor=white&color=1D9BF0
 [2.2]: https://img.shields.io/badge/LinkedIn-Karim%20G?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2
