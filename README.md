@@ -13,29 +13,29 @@
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=0A66C2)
 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
 
-![](https://img.shields.io/badge/FW-React-informational?style=flat&logo=react&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/FW-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=redux&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/FW-Express-informational?style=flat&logo=Express&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/FW-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/FW-Handlebars-informational?style=flat&logo=Handlebars.js&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/FW-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/FW-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/FW-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC)
+![](https://img.shields.io/badge/FW-Express-informational?style=flat&logo=Express&logoColor=white&color=000000)
+![](https://img.shields.io/badge/FW-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=FFCA28)
+![](https://img.shields.io/badge/FW-Handlebars-informational?style=flat&logo=Handlebars.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/FW-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=010101)
 
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/cloud-Digitalocean-informational?style=flat&logo=Digitalocean&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/cloud-Digitalocean-informational?style=flat&logo=Digitalocean&logoColor=white&color=0080FF)
+![](https://img.shields.io/badge/cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 
-![](https://img.shields.io/badge/design-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/design-Illustrator-informational?style=flat&logo=Adobe%20Illustrator&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/design-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=31A8FF)
+![](https://img.shields.io/badge/design-Illustrator-informational?style=flat&logo=Adobe%20Illustrator&logoColor=white&color=FF9A00)
 
-![](https://img.shields.io/badge/electronic-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/electronic-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=0A66C2)
-
+![](https://img.shields.io/badge/electronic-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 
 
 
