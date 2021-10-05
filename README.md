@@ -1,9 +1,10 @@
 ### Hello, folks 👋
 
 📫 How to reach me:
-  [![Twitter][1.2]][1]
-  [![LinkedIn][2.2]][2]
-  [![UpWork][3.2]][3]
+
+[![Twitter][1.2]][1]
+[![LinkedIn][2.2]][2]
+[![UpWork][3.2]][3]
   
   
 🔧 Technologies & Tools:
@@ -12,20 +13,29 @@
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=0A66C2)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0A66C2)
 
 ![](https://img.shields.io/badge/FW-React-informational?style=flat&logo=react&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/FW-express-informational?style=flat&logo=Express&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/FW-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/FW-Redux-informational?style=flat&logo=redux&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/FW-Express-informational?style=flat&logo=Express&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/FW-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/FW-Handlebars-informational?style=flat&logo=Handlebars.js&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/FW-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=0A66C2)
 
 ![](https://img.shields.io/badge/cloud-Digitalocean-informational?style=flat&logo=Digitalocean&logoColor=white&color=0A66C2)
 
 ![](https://img.shields.io/badge/design-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/design-Illustrator-informational?style=flat&logo=Adobe%20Illustrator&logoColor=white&color=0A66C2)
+
+![](https://img.shields.io/badge/electronic-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/electronic-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=0A66C2)
+
 
 
 
