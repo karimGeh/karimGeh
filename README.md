@@ -7,6 +7,7 @@
   
   
 🔧 Technologies & Tools:
+
 ![](https://img.shields.io/badge/OS-Windows%20|%20Linux-informational?style=flat&logo=Linux&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=0A66C2)
@@ -14,11 +15,18 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0A66C2)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Javascript&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0A66C2)
 
 ![](https://img.shields.io/badge/FW-React-informational?style=flat&logo=react&logoColor=white&color=0A66C2)
 ![](https://img.shields.io/badge/FW-express-informational?style=flat&logo=Express&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/FW-Handlebars-informational?style=flat&logo=Handlebars.js&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/FW-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=0A66C2)
+
 ![](https://img.shields.io/badge/cloud-Digitalocean-informational?style=flat&logo=Digitalocean&logoColor=white&color=0A66C2)
+
+![](https://img.shields.io/badge/design-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=0A66C2)
+![](https://img.shields.io/badge/design-Illustrator-informational?style=flat&logo=Adobe%20Illustrator&logoColor=white&color=0A66C2)
+
 
 
 Others:
