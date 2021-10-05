@@ -33,8 +33,8 @@ Others:
 ![](https://img.shields.io/github/followers/karimGeh)
 
 [1.2]: https://img.shields.io/badge/Twitter-@karimGeh?style=flat&logo=Twitter&logoColor=white&color=1D9BF0
-[2.2]: https://img.shields.io/badge/LinkedIn-Karim%20G.?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2
-[3.2]: https://img.shields.io/badge/UpWork-Karim%20G.?style=flat&logo=Upwork&logoColor=white&color=14A800
+[2.2]: https://img.shields.io/badge/LinkedIn-Karim%20G?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2
+[3.2]: https://img.shields.io/badge/UpWork-Karim%20G?style=flat&logo=Upwork&logoColor=white&color=14A800
 
 [1]: https://twitter.com/karimGeh
 [2]: https://www.linkedin.com/in/karim-gehad/
