@@ -6,7 +6,9 @@
 [![LinkedIn][2.2]][2]
 [![UpWork][3.2]][3]
   
- 
+
+![](https://visitor-badge.glitch.me/badge?page_id=karimGeh.karimGeh)
+
 <!-- [![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimGeh&show_icons=true&theme=dark)](https://github.com/karimGeh/github-readme-stats) -->
 
 
