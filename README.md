@@ -6,7 +6,11 @@
 [![LinkedIn][2.2]][2]
 [![UpWork][3.2]][3]
   
-  
+ 
+[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimGeh)](https://github.com/karimGeh/github-readme-stats)
+
+
+
 🔧 Technologies & Tools:
 
 ![](https://img.shields.io/badge/OS-Windows%20|%20Linux-informational?style=flat&logo=Linux&logoColor=white&color=0A66C2)
