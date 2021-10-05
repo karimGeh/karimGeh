@@ -7,7 +7,7 @@
 [![UpWork][3.2]][3]
   
  
-[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimGeh)](https://github.com/karimGeh/github-readme-stats)
+[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimGeh&show_icons=true&theme=dark)](https://github.com/karimGeh/github-readme-stats)
 
 
 
