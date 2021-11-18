@@ -11,8 +11,8 @@ I wrote my first program in Python when I was 16. It was mind-blowing telling th
 That’s why knowing how to develop software wasn't enough to quench my thirst for knowledge, it actually pushed me to learn more about hardware (electronics, energy and embedded systems), so that I could be able to form a complete picture of how the entire system works as one piece.
 
 So on my journey following this goal, I can proudly say that today I am a:
- • 👨‍💻 Self-taught full-stack web developer.
- • 👨‍🔬 Student of electromechanical engineering.
+• 👨‍💻 Self-taught full-stack web developer.
+• 👨‍🔬 Student of electromechanical engineering.
 
 You now know the purpose of my journey, so please feel free to connect, and let me know if you have any advice that might help me.
 
