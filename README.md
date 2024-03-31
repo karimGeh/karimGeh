@@ -1,22 +1,24 @@
 
 # Hello, folks 👋 ![](https://img.shields.io/github/followers/karimGeh) ![](https://visitor-badge.glitch.me/badge?page_id=karimGeh.karimGeh)
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![UpWork][3.2]][3] [![UpWork][4.2]][4] 
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![UpWork][3.2]][3] [![Email][4.2]][4] 
 
-Welcome to my profile, hope you will find something interesting in here.
+Welcome aboard my digital nook! I'm thrilled you've docked here, and I'm hopeful you'll unearth some gems within these virtual walls.
 
-## ❕ About me:
-I wrote my first program in Python when I was 16. It was mind-blowing telling the computer to print(“Karim”) and it actually does. Since then, I haven't stopped coding to this day. But it's not just coding that drew my attention, it's the whole package, like how does a dumb processor that only understands binary can handle my inputs? How could a bunch of transistors be able to show a text on my screen? I know, it's amazing, isn't it?
+## 🌟 A Glimpse Into My World:
 
-That’s why knowing how to develop software wasn't enough to quench my thirst for knowledge, it actually pushed me to learn more about hardware (electronics, energy and embedded systems), so that I could be able to form a complete picture of how the entire system works as one piece.
+At the tender age of 16, armed with nothing but curiosity and a beginner's Python guide, I embarked on what would become the grandest adventure of my life. Typing out `print("Karim")` and watching my name materialize on the screen was nothing short of magical. That singular moment ignited a flame of passion for coding that burns brightly to this day. But, my fascination didn't halt at the precipice of software; it was merely the gateway to an expansive universe of wonder. 
 
-So on my journey following this goal, I can proudly say that today I am a:
+Ever pondered how a processor, essentially a brain of sand tricked into thinking, interprets your commands? Or how an assembly of transistors, minuscule and seemingly insubstantial, can conjure words on your screen? It's a realm where magic meets logic, isn't it?
 
-• 👨‍💻 Self-taught full-stack web developer.
+This insatiable curiosity wasn't to be sated with mere software lore. It beckoned me deeper, into the intricate dance of electrons within hardware - exploring the realms of electronics, energy, and embedded systems. My quest was to see the bigger picture, to understand the symphony played by software and hardware in unison.
 
-• 👨‍🔬 electromechanical engineer.
+Through this journey, I've morphed, grown, and can proudly don the hats of:
 
-You now know the purpose of my journey, so please feel free to connect, and let me know if you have any advice that might help me.
+- 👨‍💻 A veteran software developer, crafting digital dreams into reality.
+- 👨‍🔬 An electromechanical engineer, weaving the physical with the ethereal.
+
+You've now glimpsed into the essence of my quest. I warmly invite you to connect, share insights, or offer advice. Together, let's explore the endless possibilities that lie at the intersection of electrons and algorithms.
 
 
 ## 🔧 Technologies & Tools:
